@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Lucky Israel
 
-## 📱 React Native Developer | Web3 Mobile Developer  | ✍️ Tech Writer
+## React Native Developer | Web3 Mobile Developer  | Tech Writer
 
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -58,11 +58,11 @@ I regularly write about mobile development, React Native, Python, and general pr
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyisrael&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckyisrael&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyisrael&layout=compact&theme=radical)
 
 ### 📫 Let's Connect!
 
