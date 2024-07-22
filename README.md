@@ -1,3 +1,4 @@
+# 🚧 (Under Construction) 🚧
 # 👋 Hello, I'm Lucky Israel
 
 ## React Native Developer | Web3 Mobile Developer  | Tech Writer
@@ -37,9 +38,9 @@ I'm a versatile developer with a passion for creating impactful mobile experienc
 
 ### 📱 App Demos
 
-| EcoTrack | FitnessPal | ArtisanMarket |
+| MyOzone | OwlsomeWears | OracleSwap |
 |:--------:|:----------:|:-------------:|
-| <img src="https://your-image-host.com/ecotrack-demo.gif" width="100" alt="EcoTrack Demo"> | <img src="https://your-image-host.com/fitnesspal-demo.gif" width="100" alt="FitnessPal Demo"> | <img src="https://your-image-host.com/artisanmarket-demo.gif" width="100" alt="ArtisanMarket Demo"> |
+| <img src="https://your-image-host.com/ecotrack-demo.gif" width="100" alt="MyOzone Demo"> | <img src="https://your-image-host.com/fitnesspal-demo.gif" width="100" alt="FitnessPal Demo"> | <img src="https://your-image-host.com/artisanmarket-demo.gif" width="100" alt="ArtisanMarket Demo"> |
 | Carbon Footprint Tracker | Workout Progress | Product Browsing |
 | <img src="https://your-image-host.com/ecotrack-tips.gif" width="200" alt="EcoTrack Tips"> | <img src="https://your-image-host.com/fitnesspal-meal.gif" width="200" alt="FitnessPal Meal Planner"> | <img src="https://your-image-host.com/artisanmarket-order.gif" width="200" alt="ArtisanMarket Order Process"> |
 | Eco-friendly Tips | Meal Planner | Order Process |
@@ -48,9 +49,8 @@ I'm a versatile developer with a passion for creating impactful mobile experienc
 
 I regularly write about mobile development, React Native, Python, and general programming tips. Find my articles on:
 
-<a href="https://medium.com/@yourusername" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-<a href="https://dev.to/yourusername" target="_blank"><img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
-<a href="https://yourusername.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+<a href="https://medium.com/@iLuckyisrael" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://luckyisrael.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
 
 ### 🔒 Startup Experience (Private Projects)
 
