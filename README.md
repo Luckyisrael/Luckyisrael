@@ -52,17 +52,7 @@ I regularly write about mobile development, React Native, Python, and general pr
 <a href="https://medium.com/@iLuckyisrael" target="_blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 <a href="https://luckyisrael.hashnode.dev" target="_blank"><img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
 
-### 🔒 Startup Experience (Private Projects)
-
-[Previous startup experience section remains unchanged]
-
-### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=luckyisrael&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luckyisrael&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyisrael&layout=compact&theme=radical)
+### 🔒 Startup Fintech Experience (Private Projects)
 
 ### 📫 Let's Connect!
 
