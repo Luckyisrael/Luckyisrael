@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-I'm a solo developer and founder based in Nigeria, building under my company **Mercho**. I work across the full stack mobile, backend, web, and Solana Mobile development and I have a consistent habit: before a single line of code gets written, I produce **complete, code-free specification documents** detailed enough for AI coding agents (and humans) to build from without guessing. That discipline is how I've been able to take on and ship a large number of full products solo.
+I'm a solo developer and founder building under **Mercho**. I work across the full stack mobile, backend, web, and Solana Mobile development and I have a consistent habit: before a single line of code gets written, I produce **complete, code-free specification documents** detailed enough for AI coding agents (and humans) to build from without guessing. That discipline is how I've been able to take on and ship a large number of full products solo.
 
 I hold a National Diploma (ND) and Higher National Diploma (HND) in Computer Science, and I'm active in the Nigerian and broader African tech ecosystem through **Superteam Nigeria** and the **Solana Mobile** developer community.
 
@@ -66,18 +66,8 @@ A Solana hackathon project: a decentralized residential proxy network using Seek
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
-
----
-
-### 🔭 Currently Building
-
-- **SeekerStudio** deep in the phased build, preparing a grant submission with a **September 20, 2026** deadline
-- **NimiClip** building phase-by-phase for an active hackathon
-- Continuing to build **Stackfront**'s remaining backend domains toward full production readiness
 
 ---
 
