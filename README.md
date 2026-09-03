@@ -24,13 +24,13 @@ I hold a National Diploma (ND) and Higher National Diploma (HND) in Computer Sci
 ### 🚀 Featured Projects
 
 #### 🧩 [Stackfront](#)
-A white-label Shopify mobile app SDK and infrastructure platform for developers and merchants. Fully architected across **16 domain build documents** — merchant onboarding, developer SDK, push notifications, analytics, loyalty, a Shopify embedded merchant app, a Next.js developer dashboard, and a full example app design system (ShopMe). Backend domains 1–10 are confirmed built and deployed, backed by a complete API with OpenAPI/Scalar docs, JWT & API key auth, and Redis.
+A white-label Shopify mobile app SDK and infrastructure platform for developers and merchants. Fully architected across **16 domain build documents** merchant onboarding, developer SDK, push notifications, analytics, loyalty, a Shopify embedded merchant app, a Next.js developer dashboard, and a full example app design system (ShopMe). Backend domains 1–10 are confirmed built and deployed, backed by a complete API with OpenAPI/Scalar docs, JWT & API key auth, and Redis.
 
 #### 🛰️ [SeekerStudio](#)
 A browser-based, AI-native IDE for building and testing apps on **Solana Mobile Seeker** devices. Shipped a full **15-phase implementation roadmap** with companion specs covering the agent engine, frontend/UI, Redroid container orchestration, a mock MWA wallet pipeline, billing, APK export, and VPS deployment. Currently in active build, with a grant application in motion.
 
 #### 🎧 [Sanctum](#)
-An immersive audio Bible app (Expo React Native + .NET 9 backend). Ships with a **Bible Pipeline** that automates 121 story entries into ~726 narrated episodes, a freemium model via RevenueCat, and emotionally-tagged narration powered by Fish Audio S2 Pro. Solved real cross-platform pain along the way — Kotlin version pinning, native module nullability bugs, and emulator-vs-device ABI mismatches.
+An immersive audio Bible app (Expo React Native + .NET 9 backend). Ships with a **Bible Pipeline** that automates 121 story entries into ~726 narrated episodes, a freemium model via RevenueCat, and emotionally-tagged narration powered by Fish Audio S2 Pro. Solved real cross-platform pain along the way Kotlin version pinning, native module nullability bugs, and emulator-vs-device ABI mismatches.
 
 #### 🛒 [7MarketDays](#)
 A Nigerian group-buying platform. Go backend (chi router) + Expo/NativeWind frontend, integrated with Centiiv payment infrastructure. Fully documented across **11 backend phases and 6 mobile phases**.
