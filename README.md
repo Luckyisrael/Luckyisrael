@@ -17,7 +17,7 @@
 White-label Shopify mobile app SDK and infrastructure platform. Merchant onboarding, developer SDK, push notifications, analytics, loyalty, and a Next.js developer dashboard, backed by a documented REST API with JWT/API key auth.
 
 **[SeekerStudio](#)**
-Browser-based AI-native IDE for Solana Mobile Seeker development. Covers an agent engine, Redroid container orchestration, a mock MWA wallet pipeline, billing, and APK export.
+Browser-based AI-native IDE for Solana Mobile Seeker development. Covers an agent engine, live android device, container orchestration, a mock MWA wallet pipeline, billing, and APK export.
 
 **[Sanctum](#)**
 Immersive audio Bible app (Expo React Native + .NET 9). Automated pipeline turning 121 story entries into roughly 726 narrated episodes, freemium via RevenueCat, emotion-tagged narration.
