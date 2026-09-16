@@ -5,7 +5,7 @@
 
 ### 🔨 What I'm working on
 
-- **SeekerStudio**, an AI-native IDE for building and testing Solana Mobile Seeker apps, in active development
+- **Talon**, an AI-native IDE for building and testing Solana Mobile Seeker apps, in active development
 - **NimiClip**, an AI-powered vertical video generation Mini App, built for a hackathon inside Nimiq Pay
 - **Stackfront**, a white-label Shopify mobile app SDK and infra platform, backend live in production
 
@@ -16,7 +16,7 @@
 **[Stackfront](#)**
 White-label Shopify mobile app SDK and infrastructure platform. Merchant onboarding, developer SDK, push notifications, analytics, loyalty, and a Next.js developer dashboard, backed by a documented REST API with JWT/API key auth.
 
-**[SeekerStudio](#)**
+**[Talon](#)**
 Browser-based AI-native IDE for Solana Mobile Seeker development. Covers an agent engine, live android device, container orchestration, a mock MWA wallet pipeline, billing, and APK export.
 
 **[Sanctum](#)**
